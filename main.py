@@ -42,7 +42,7 @@ def on_submit():
 
 # Create the main window
 root = tk.Tk()
-root.title("Python GUI with Widgets")
+root.title("Web Scraping")
 
 # Radio buttons
 radio_var = tk.StringVar(value="Option 1")
